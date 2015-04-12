@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+	<repo priority="10" quality="experimental" status="unofficial">
+    <name>daeyun</name>
+    <description>Daeyun's Gentoo Overlay</description>
+    <homepage>https://github.com/daeyun/daeyun-gentoo-overlay</homepage>
+    <owner>
+      <email>daeyun@daeyunshin.com</email>
+    </owner>
+    <source type="git">git://github.com/daeyun/daeyun-gentoo-overlay.git</source>
+  </repo>
+</repositories>
